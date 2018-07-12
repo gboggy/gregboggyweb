@@ -2,8 +2,8 @@
 title: Gregory Boggy, Ph.D.
 email: greg@gregboggy.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dr. Gregory Boggy is a data scientist and biotechnology entrepreneur.  This site 
-  showcases his data science projects.
+  Dr. Gregory Boggy is a freelance data scientist and biotechnology entrepreneur.  This 
+  site showcases his data science projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://gregboggy.com" # the base hostname & protocol for your site
 twitter_username: gregboggy
